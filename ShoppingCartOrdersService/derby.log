@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sun Sep 18 12:25:26 IST 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0183-4f61-6391-0000028fa488 
+on database directory memory:D:\Shopping-Cart-System\ShoppingCartOrdersService\f764c6cf-a1ca-4f92-b843-c71643aff28d with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@4b1210ee 
+Loaded from file:/C:/Users/yandr/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=18.0.1.1+2-6
+user.dir=D:\Shopping-Cart-System\ShoppingCartOrdersService
+os.name=Windows 11
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
